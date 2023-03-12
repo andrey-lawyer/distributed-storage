@@ -1,0 +1,89 @@
+{
+  "germany_frankfurt": {
+    "north_america": {
+      "salt_lake_city_large": {
+        "latency": 132,
+        "rating": 4,
+        "quality": "4K/2160p Ultra HD"
+      },
+      "dallas_medium": {
+        "latency": 123,
+        "rating": 4,
+        "quality": "4K/2160p Ultra HD"
+      },
+      "chicago_small": {
+        "latency": 102,
+        "rating": 4,
+        "quality": "4K/2160p Ultra HD"
+      }
+    },
+    "south_america": {
+      "bogota_large": {
+        "latency": 169,
+        "rating": 3,
+        "quality": "1080p Full HD"
+      },
+      "buenos_aires_medium": {
+        "latency": 250,
+        "rating": 2,
+        "quality": "480p"
+      },
+      "brasilia_small": {
+        "latency": 175,
+        "rating": 3,
+        "quality": "1080p Full HD"
+      }
+    },
+    "europa": {
+      "moscow_large": {
+        "latency": 41,
+        "rating": 5,
+        "quality": "4K/2160p Ultra HD"
+      },
+      "madrid_medium": {
+        "latency": 32,
+        "rating": 5,
+        "quality": "4K/2160p Ultra HD"
+      },
+      "warsaw_small": {
+        "latency": 20,
+        "rating": 5,
+        "quality": "4K/2160p Ultra HD"
+      }
+    },
+    "asia": {
+      "seoul_large": {
+        "latency": 296,
+        "rating": 1,
+        "quality": "480p"
+      },
+      "new_delhi_medium": {
+        "latency": 157,
+        "rating": 3,
+        "quality": "1080p Full HD"
+      },
+      "dhaka_small": {
+        "latency": 182,
+        "rating": 3,
+        "quality": "1080p Full HD"
+      }
+    },
+    "oceania": {
+      "melbourne_large": {
+        "latency": 253,
+        "rating": 2,
+        "quality": "480p"
+      },
+      "perth_medium": {
+        "latency": 215,
+        "rating": 3,
+        "quality": "1080p Full HD"
+      },
+      "sydney_small": {
+        "latency": 255,
+        "rating": 2,
+        "quality": "480p"
+      }
+    }
+  }
+}
