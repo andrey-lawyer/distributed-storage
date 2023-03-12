@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/distributed-storage/static/css/main.d5f5f8ba.css",
-    "main.js": "/distributed-storage/static/js/main.22f569be.js",
+    "main.js": "/distributed-storage/static/js/main.ee994055.js",
     "static/media/map.png": "/distributed-storage/static/media/map.7d22c83530e84dd559e7.png",
     "static/media/server_ByteCloud.png": "/distributed-storage/static/media/server_ByteCloud.c50b8fbb49cf14c7235d.png",
     "static/media/server.png": "/distributed-storage/static/media/server.3abd77d58fb835207e93.png",
@@ -33,10 +33,10 @@
     "static/media/arc_east-usa_asia_small.png": "/distributed-storage/static/media/arc_east-usa_asia_small.838f0ebb90dddd5842df.png",
     "index.html": "/distributed-storage/index.html",
     "main.d5f5f8ba.css.map": "/distributed-storage/static/css/main.d5f5f8ba.css.map",
-    "main.22f569be.js.map": "/distributed-storage/static/js/main.22f569be.js.map"
+    "main.ee994055.js.map": "/distributed-storage/static/js/main.ee994055.js.map"
   },
   "entrypoints": [
     "static/css/main.d5f5f8ba.css",
-    "static/js/main.22f569be.js"
+    "static/js/main.ee994055.js"
   ]
 }
