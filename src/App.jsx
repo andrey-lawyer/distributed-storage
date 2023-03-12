@@ -128,7 +128,7 @@ export const App = () => {
     setTimeout(() => {
       setPathRedBlue(true);
       setPathOnlyRed(false);
-    }, pauseOnlyRed * 10 + 1000);
+    }, pauseOnlyRed * 15 + 2000);
   }
   const toTablesBlueRed = (
     pause,
@@ -152,7 +152,7 @@ export const App = () => {
       setTable(true);
       setServers(false);
       setGadgets(false);
-    }, pauseOnlyRed * 10 + 2000);
+    }, pauseOnlyRed * 15 + 2000);
   }
 
   const sumServers =

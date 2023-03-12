@@ -35,7 +35,7 @@ export const ScreenPhone = styled.div`
   height: 8px;
 
   animation: ${SizePhone};
-  animation-duration: ${props => `${props.duration * 10}ms`};
+  animation-duration: ${props => `${props.duration * 15}ms`};
   animation-fill-mode: forwards;
   animation-timing-function: linear;
   background-color: blue;
@@ -50,7 +50,7 @@ export const ScreenTablet = styled.div`
   height: 25px;
 
   animation: ${SizeTablet};
-  animation-duration: ${props => `${props.duration * 10}ms`};
+  animation-duration: ${props => `${props.duration * 15}ms`};
   animation-fill-mode: forwards;
   animation-timing-function: linear;
   background-color: blue;
@@ -64,7 +64,7 @@ export const ScreenDesk = styled.div`
   height: 17px;
 
   animation: ${SizeDesk};
-  animation-duration: ${props => `${props.duration * 10}ms`};
+  animation-duration: ${props => `${props.duration * 15}ms`};
   animation-fill-mode: forwards;
   animation-timing-function: linear;
   background-color: blue;
